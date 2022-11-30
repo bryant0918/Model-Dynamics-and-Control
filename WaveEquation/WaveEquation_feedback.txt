@@ -1,0 +1,28 @@
+11/30/22 14:53
+
+Problem 1 (8 points):
+Score += 4
+
+Problem 2 (9 points):
+Score += 4
+
+Problem 3 (8 points):
+Score += 4
+
+Problem 4 (8 points):
+Score += 4
+
+Problem 5 (12 points):
+Score += 6
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 27/50 = 54.0%
+
+
+Comments:
+	Send me your animations, let me know, then I'll regrade it
+
+-------------------------------------------------------------------------------
+
