@@ -26,3 +26,30 @@ Comments:
 
 -------------------------------------------------------------------------------
 
+12/09/22 11:54
+
+Problem 1 (8 points):
+Not supposed to explode like that
+Score += 4
+
+Problem 2 (9 points):
+Score += 9
+
+Problem 3 (8 points):
+Score += 8
+
+Problem 4 (8 points):
+Score += 8
+
+Problem 5 (12 points):
+Score += 12
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
