@@ -1,0 +1,58 @@
+09/14/22 15:19
+
+Prob 1 (5 points):
+Score += 5
+
+Prob 2 (5 points):
+Score += 5
+
+Prob 3 (15 points):
+Score += 0
+
+Prob 4 (10 points):
+Score += 10
+
+Prob 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/50 = 70.0%
+
+
+Comments:
+	Push the prob3 video and let me know when so I can grade it
+
+-------------------------------------------------------------------------------
+
+09/30/22 13:13
+
+Prob 1 (5 points):
+Score += 5
+
+Prob 2 (5 points):
+Score += 5
+
+Prob 3 (15 points):
+Score += 15
+
+Prob 4 (10 points):
+Score += 10
+
+Prob 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	By the way you still did it wrong, I just had already seen your working animation
+
+-------------------------------------------------------------------------------
+

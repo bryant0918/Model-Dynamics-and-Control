@@ -1,0 +1,21 @@
+11/30/22 12:33
+
+Problem 1 (13 points):
+Score += 13
+
+Problem 2 (15 points):
+titles
+Score += 14
+
+Problem 3 (17 points):
+Score += 17
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
