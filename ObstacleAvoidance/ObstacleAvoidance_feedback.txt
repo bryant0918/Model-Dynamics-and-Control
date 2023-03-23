@@ -1,0 +1,23 @@
+03/23/23 16:20
+
+Prob 1 (10 points):
+Score += 10
+
+Prob 2 (10 points):
+Score += 10
+
+Prob 3 (10 points):
+Score += 10
+
+Prob 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
